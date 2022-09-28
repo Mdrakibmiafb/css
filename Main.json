@@ -1,0 +1,32 @@
+{
+    "theme_color": "#2170d4",
+    "background_color": "#fffffcc",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "TricksShikbo",
+    "short_name": "Trickshikbo",
+    "description": "Trickshikbo \u098f\u0995\u099f\u09bf \u09ac\u09be\u0982\u09b2\u09be \u099f\u09c7\u0995\u09a8\u09cb\u09b2\u099c\u09bf \u09ac\u09bf\u09b7\u09df\u0995 \u09ac\u09be\u0982\u09b2\u09be \u09ac\u09cd\u09b2\u0997\u0964",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPAZewu9LaSMgHOw-UohFyw5a81FwkCZx9Gl4v5If-Wz3PXVKyKjX0EQG9MrV3fa4K6GHoh19X0OGl7qOOGPRMQH7fgI0GF-2xfDmX6ZRF_OV8attEr-C2aJQ6nFIwPV0FF78ADIj7_A6QScMWusa1n050QyjDkmp9itkwai9ULyXcRjFEqZ8jm6mR/s1600/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTMip9R7ploz4tK52WpBkSTyNlW5yoOBIsFU4Orzd8rWadZ3MHUKlNEspTH8H9UjL0Oh7kOfE1G_WO5Ix3EFj4WL5PXKZIIvOjp1MwiOOmlauehpvJomx3cpOfdLK9KaK51_P0C_xRI1a6Hdhl8IYeBdratZYWYhxCE3eT8I75RNWPwFRPyGM-98cI/s1600/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqxd-3fwFQ4pzzlKgBPEqJs8NPJhhzAaBAzcYZBXbArzebqLIb0NVAK-jeEzrzZ4DEPW7-zYbsyYZIGeb6jN8bn7HQMoDHQrSBxIr5WeOqgX-bLilTp8yzcxeuHqeuwBsGhl3aZOwK-PJvfVOltkpDZtoOII8Iy619ULveLBEFqEcCHS4Ors64VJUg/s1600/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU4EEgIMDC19CdA0lGnbdR7QOI-cp2lY7NDnDBgp_sOM9s56QDNV5R_Veb6c7igQL82eK8hKVypjzPHV7K4nUv63YrhZG3SFyomAHYAxBmfS6HvqZK6FXYY8-UsbGf_qFBJDum-apq_Q6MgQrdwZVj0VZti6K0TUNAVXXSXs49sn7mano9JTUQIwZg/s1600/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
